@@ -19,7 +19,7 @@ const UUID = process.env.UUID || '9afd1229-b893-40c1-84dd-51e7ce204913';
 const ARGO_DOMAIN = process.env.ARGO_DOMAIN || '';
 const ARGO_AUTH = process.env.ARGO_AUTH || '';
 const ARGO_PORT = process.env.ARGO_PORT || 8001;
-const CFIP = process.env.CFIP || 'saas.sin.fan';
+const CFIP = process.env.CFIP || 'bug.com';
 const CFPORT = process.env.CFPORT || 443;
 const NAME = process.env.NAME || 'MEDIAFAIRY';
 
